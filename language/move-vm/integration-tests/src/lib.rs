@@ -4,5 +4,5 @@
 
 #![cfg(test)]
 
-mod compiler;
-mod tests;
+pub mod compiler;
+pub mod tests;

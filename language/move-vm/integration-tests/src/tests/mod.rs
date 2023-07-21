@@ -14,3 +14,4 @@ mod loader_tests;
 mod mutated_accounts_tests;
 mod nested_loop_tests;
 mod return_value_tests;
+pub mod public_tests;
