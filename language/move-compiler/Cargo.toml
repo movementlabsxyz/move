@@ -21,7 +21,7 @@ once_cell = "1.7.2"
 num-bigint = "0.4.0"
 sha3 = "0.9.1"
 
-bcs.workspace = true
+bcs = "0.1.4"
 
 move-binary-format = { path = "../move-binary-format" }
 move-core-types = { path = "../move-core/types" }

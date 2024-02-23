@@ -12,7 +12,7 @@ move-command-line-common = { path = "../../move-command-line-common" }
 move-model = { path = "../../move-model" }
 move-core-types = { path = "../../move-core/types" }
 
-bcs.workspace = true
+bcs = "0.1.4"
 
 # external dependencies
 log = "0.4.14"

@@ -13,7 +13,7 @@ edition = "2021"
 
 [dependencies]
 better_any = "0.1.1"
-fail = "0.4.0"
+fail = "0.5.1"
 once_cell = "1.7.2"
 parking_lot = "0.11.1"
 sha3 = "0.9.1"

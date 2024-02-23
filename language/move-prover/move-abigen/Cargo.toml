@@ -14,7 +14,7 @@ move-binary-format = { path = "../../move-binary-format" }
 move-bytecode-verifier = { path = "../../move-bytecode-verifier" }
 move-command-line-common = { path = "../../move-command-line-common" }
 
-bcs.workspace = true
+bcs = "0.1.4"
 
 # external dependencies
 log = "0.4.14"

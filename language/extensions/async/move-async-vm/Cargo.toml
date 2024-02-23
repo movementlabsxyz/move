@@ -23,7 +23,7 @@ move-vm-runtime = { path = "../../../move-vm/runtime", features = ["debugging"] 
 move-vm-test-utils = { path = "../../../move-vm/test-utils" }
 move-binary-format = { path = "../../../move-binary-format" }
 
-bcs.workspace = true
+bcs = "0.1.4"
 
 [dev-dependencies]
 datatest-stable = "0.1.1"

@@ -18,7 +18,7 @@ anyhow = "1.0.52"
 codespan = { version = "0.11.1", features = ["serialization"] }
 colored = "2.0.0"
 
-bcs.workspace = true
+bcs = "0.1.4"
 
 move-command-line-common = { path = "../../move-command-line-common" }
 move-core-types = { path = "../../move-core/types" }
